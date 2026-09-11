@@ -1,4 +1,4 @@
-# The best github repoout there
+# The Best Github Repoout There
 This is readme
 The best ways are:
 - eat
